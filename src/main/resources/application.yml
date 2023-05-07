@@ -10,3 +10,4 @@ eureka:
       registerWithEureka: false
       serviceUrl:
         defaultZone: http://ms-discovery:8701/eureka/
+
